@@ -90,7 +90,7 @@ Dynamic Leadership, Cross-Team Collaboration, Documentation, Communication under
 
 - 📧 Email: *cooljosh097@gmail.com*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joshua-cooling/)  
-- 🛠️ [View My GitHub Repos](https://github.com/JoshuaCooling)
+- 🛠️ [View My GitHub Repos](https://github.com/JoshuaCooling?tab=repositories)
 
 ---
 
