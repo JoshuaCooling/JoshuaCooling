@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joshua Cooling
 
-🎓 Computer Science Student | 💻 IT Intern @ ADAC | 🎖️ Army Veteran | 🚀 Problem Solver
+🤖 Artificial Intelligence Master’s Student | 🎓 Computer Science Graduate | 🎖️ U.S. Army Veteran
 
 ---
 
@@ -13,7 +13,7 @@ I'm a dedicated and adaptable developer with a strong foundation in computer sci
 - Developing clean, maintainable code across languages and stacks
 - Exploring systems programming, networking, and AI/ML applications
 
-I'm currently pursuing my **B.S. in Computer Science with a Mathematics minor** at Grand Valley State University (expected Aug 2025), and working as an **IT Intern at ADAC Automotive**.
+I am a recent Computer Science graduate, currently pursuing my Master’s in Artificial Intelligence at Grand Valley State University. I bring a strong foundation in software development, IT operations, and problem-solving, combined with leadership experience as a U.S. Army veteran.
 
 ---
 
@@ -40,7 +40,7 @@ Dynamic Leadership, Cross-Team Collaboration, Documentation, Communication under
 ## 💼 Experience
 
 **👨‍💻 IT Operations Intern**  
-*ADAC Automotive, Muskegon, MI | May 2025 – Present*  
+*ADAC Automotive, Muskegon, MI | May 2025 – August 2025*  
 - Developed a custom inventory management system in Power Apps  
 - Provided multi-site tech support for hardware, software, and network issues  
 - Wrote detailed system documentation and IT support procedures  
